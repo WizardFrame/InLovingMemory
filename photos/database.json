@@ -1,0 +1,12 @@
+{
+  "photos": [
+    {
+      "url": "https://<your-username>.github.io/ilm-photo-database/photos/photo1.jpg",
+      "credit": "PlayerOne"
+    },
+    {
+      "url": "https://<your-username>.github.io/ilm-photo-database/photos/photo2.png",
+      "credit": "SkylineGirl"
+    }
+  ]
+}
