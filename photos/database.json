@@ -1,11 +1,11 @@
 {
   "photos": [
     {
-      "url": "https://wizardframe.github.io/InLovingMemory/photos/photo1.png",
+      "url": "https://raw.githubusercontent.com/WizardFrame/InLovingMemory/main/photos/photo1.png",
       "credit": "PlayerOne"
     },
     {
-      "url": "https://wizardframe.github.io/InLovingMemory/photos/photo2.png",
+      "url": "https://raw.githubusercontent.com/WizardFrame/InLovingMemory/main/photos/photo2.png",
       "credit": "PlayerTwo"
     }
   ]
