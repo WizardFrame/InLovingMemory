@@ -1,12 +1,12 @@
 {
   "photos": [
     {
-      "url": "https://<your-username>.github.io/ilm-photo-database/photos/photo1.jpg",
+      "url": "https://github.com/WizardFrame/InLovingMemory/blob/main/photos/photo1.png",
       "credit": "PlayerOne"
     },
     {
-      "url": "https://<your-username>.github.io/ilm-photo-database/photos/photo2.png",
-      "credit": "SkylineGirl"
+      "url": "https://github.com/WizardFrame/InLovingMemory/blob/main/photos/photo2.png",
+      "credit": "PlayerTwo"
     }
   ]
 }
